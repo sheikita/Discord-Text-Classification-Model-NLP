@@ -9,6 +9,6 @@ Technologies Used
 * NLP: NLTK, spacy 
 * Modeling: Logistic Regression, Gradient Boosting and Random Forest
 
-[PowerPoint Presentation "Applying NLP to Discord dataset"](https://github.com/sheikita/Springboard-Capstone-Project-2/blob/master/Capstone%20Project%202-%20DISCORD%20NLP%20Report.pdf): highglights trends/calls to action from performing EDA, applying the modes and evaluating them.
+[PowerPoint Presentation "Applying NLP to NNN dataset"](https://github.com/sheikita/Springboard-Capstone-Project-2/blob/master/Capstone%20Project%202-%20DISCORD%20NLP%20Report.pdf): highglights trends/calls to action from performing EDA, applying the modes and evaluating them.
 
 [Capstone Project 2 Final Report](https://github.com/sheikita/Springboard-Capstone-Project-2/blob/master/Presentation_%20Classification%20Model%20for%20Discord’s%20users%20feedback.pdf): provides detailed explanation on the steps needed to drive this project to completion.
